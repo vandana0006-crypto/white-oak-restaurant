@@ -1,1 +1,5 @@
-{"buildCommand":"npm run build","outputDirectory":".output/server/chunks","framework":null}
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".vercel/output",
+  "framework": "other"
+}
